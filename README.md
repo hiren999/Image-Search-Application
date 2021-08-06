@@ -1,1 +1,1 @@
-# Image-Search-Application
+# Image Search Application
