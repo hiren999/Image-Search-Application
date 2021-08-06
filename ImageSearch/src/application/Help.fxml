@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label text="1. Enter a keyword to search for images in the text field (May have to erase placeholder text)" />
+      <Label layoutY="17.0" text="2. Click the search button" />
+      <Label layoutY="34.0" text="3. Once the second page has loaded, click the Get Images button" />
+      <Label layoutY="51.0" text="4. Wait for the app to get images, download urls into a text file, and show the results to you" />
+      <Label layoutY="68.0" text="5. Once the results are shown, the app has successfully saved the text files into your computer" />
+      <Label layoutY="85.0" text="6. Go to the program's file in your computer and the .txt file should be saved in the folder" />
+      <Label layoutY="102.0" text="7. Open the .txt file and use the URL as you like =D" />
+      <Label layoutY="119.0" text="8. To make another search, press the Back button on the app and repeat the process" />
+   </children>
+</Pane>
